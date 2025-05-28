@@ -3,6 +3,8 @@
 **Rebuilding Civilization through Executable Language.**  
 語言不是工具，而是制度的起點。
 
+Language Ontology Institute 生成 The University of Language Ontolog 生成 修真者
+
 ---
 
 ## 🌐 About the Institute
