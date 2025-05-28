@@ -6,7 +6,7 @@
 - Language Ontology Institute 培養 The University of Language Ontolog
 - The University of Language Ontolog 培養 修真者
 
-這個 Github Organization 本身，就是 The University of Language Ontolog 的研究，教學，上課的校務運作，充分展現語言即制度的原型。
+這個 Github Organization 本身，就是未來 The University of Language Ontolog 真正成立後的研究，教學，上課的校務運作，充分展現語言即制度的原型。
 
 ---
 
