@@ -66,7 +66,7 @@ From a joke, we made a university. From a university, we make the new language w
 
 ## 📄 License
 
-CC-By-SA
+CC-By-SA 4.0 陳信屹
 
 ---
 
